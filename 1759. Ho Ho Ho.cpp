@@ -1,6 +1,5 @@
 //Bee 1759
-//I have updated this to git "developer" branch.
-//Thanks you github
+
 #include <iostream>
 using namespace std;
 
@@ -18,7 +17,6 @@ int main() {
         if(i < N)cout<<" ";
         else if(i == N)cout<<"!"<<endl;
     }
-    // Bee 1759
 
     return 0;
 }
