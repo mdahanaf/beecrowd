@@ -26,7 +26,7 @@ int main() {
 
     cout<<"Menor valor: "<<ans<<endl;
     cout<<"Posicao: "<<postion<<endl;
-
+    //Bee 1180
 
     return 0;
 }
