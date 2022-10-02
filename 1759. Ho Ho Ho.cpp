@@ -16,7 +16,7 @@ int main() {
         if(i < N)cout<<" ";
         else if(i == N)cout<<"!"<<endl;
     }
-
+    // Bee 1759
 
     return 0;
 }
